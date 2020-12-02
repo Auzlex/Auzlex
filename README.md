@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ### [Hello there][meme]! I'm Charles. Online communities refer to me as [Auzlex][steam].
 
 ## I'm a computer programming enthusiast. Love playing games, making games, Hate Jellyfish!
@@ -28,7 +27,6 @@ Here are some ideas to get you started:
 [![Website](https://img.shields.io/website?label=charlesedwards.dev&style=for-the-badge&url=https://charlesedwards.dev)](https://charlesedwards.dev)
 
 [![Why Not Follow Me On Twitter?](https://img.shields.io/twitter/follow/r_Auzlex?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAuzlex&screen_name=r_auzlex)
-https://img.shields.io/twitter/follow/r_Auzlex?color=blue&style=for-the-badge
 
 ## Github Stats
 
