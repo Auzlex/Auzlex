@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: A-X_12
 - ⚡ Fun fact: ...
 -->
-
 ### [Hello there][meme]! I'm Charles. Online communities refer to me as [Auzlex][steam].
 
 [![Website](https://img.shields.io/website?label=charlesedwards.dev&style=for-the-badge&url=https://charlesedwards.dev)](https://charlesedwards.dev) [![Why Not Follow Me On Twitter?](https://img.shields.io/twitter/follow/r_Auzlex?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAuzlex&screen_name=r_auzlex) [![Website](https://img.shields.io/website?down_message=HERE&label=SUBSCRIBE&logo=youtube&style=for-the-badge&up_color=%23FF0000&up_message=HERE&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCBKbCieC2Jg1euWT1EkxlFw)](https://www.youtube.com/channel/UCBKbCieC2Jg1euWT1EkxlFw) [![Website](https://img.shields.io/website?down_message=WORKSHOP&label=STEAM&logo=steam&style=for-the-badge&up_color=%231b2838&up_message=WORKSHOP&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2FCodingGerruy%2Fmyworkshopfiles%2F)](https://steamcommunity.com/id/CodingGerruy/myworkshopfiles/)
@@ -22,10 +21,7 @@ Here are some ideas to get you started:
 - My current project in development is my [Digital Online Portfolio][website].
 - My goals for 2020 are to solidify knowledge of various programming languages.
 - I'm interested in collaberation on other projects.
-- I’m currently learning NNFS ([Neural Networks from Scratch][learning]).
-
-<br />
-<br />
+- I’m currently learning NNFS ([Neural Networks from Scratch][learning]) Website can be found here [nnfs].
 
 ### Languages and Tools:
 
@@ -57,3 +53,4 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/channel/UCBKbCieC2Jg1euWT1EkxlFw?view_as=subscriber
 [meme]: https://youtu.be/frszEJb0aOo
 [learning]: https://youtu.be/sNHiM0DoEAg
+[nnfs]: https://nnfs.io/
