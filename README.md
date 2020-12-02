@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### <a href="https://youtu.be/frszEJb0aOo" target="_blank">Hello there</a>! I'm Charles. Online communities refer to me as [Auzlex][steam].
+### [Hello there][meme]! I'm Charles. Online communities refer to me as [Auzlex][steam].
+
+[![Website](https://img.shields.io/website?label=charlesedwards.dev&style=for-the-badge&url=https://charlesedwards.dev)](https://charlesedwards.dev)[![Why Not Follow Me On Twitter?](https://img.shields.io/twitter/follow/r_Auzlex?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAuzlex&screen_name=r_auzlex)
 
 ## I'm a computer programming enthusiast. Love playing games, making games, Hate Jellyfish!
 - My current project in development is my [Digital Online Portfolio][website].
@@ -22,11 +24,8 @@ Here are some ideas to get you started:
 - I'm interested in collaberation on other projects.
 - 
 
-## shield.io test
+## something
 
-[![Website](https://img.shields.io/website?label=charlesedwards.dev&style=for-the-badge&url=https://charlesedwards.dev)](https://charlesedwards.dev)
-
-[![Why Not Follow Me On Twitter?](https://img.shields.io/twitter/follow/r_Auzlex?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAuzlex&screen_name=r_auzlex)
 
 ## Github Stats
 
