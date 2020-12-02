@@ -24,10 +24,6 @@ Here are some ideas to get you started:
 - I'm interested in collaberation on other projects.
 - I’m currently learning NNFS ([Neural Networks from Scratch][learning]).
 
-## Github Stats
-
-<img align="left" alt="Auzlex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Auzlex&show_icons=true&hide_border=true">
-
 <br />
 <br />
 
@@ -42,7 +38,7 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Jquery" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/1920px-JQuery_logo.svg.png" />
+<img align="left" alt="Jquery" width="26px" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" />
 <img align="left" alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -50,6 +46,9 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
+<img align="left" alt="Auzlex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Auzlex&show_icons=true&hide_border=true">
+
 
 [website]: https://charlesedwards.dev/
 [steam]: https://steamcommunity.com/id/CodingGerruy/
