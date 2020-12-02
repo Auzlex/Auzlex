@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 [![Website](https://img.shields.io/website?label=charlesedwards.dev&style=for-the-badge&url=https://charlesedwards.dev)](https://charlesedwards.dev) [![Why Not Follow Me On Twitter?](https://img.shields.io/twitter/follow/r_Auzlex?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAuzlex&screen_name=r_auzlex)
 
+[![Website](https://img.shields.io/website?down_message=HERE&label=SUBSCRIBE&logo=youtube&style=for-the-badge&up_color=%23FF0000&up_message=HERE&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCBKbCieC2Jg1euWT1EkxlFw)](https://www.youtube.com/channel/UCBKbCieC2Jg1euWT1EkxlFw)
+
 ## I'm a computer programming enthusiast. Love playing games, making games, Hate Jellyfish!
 - My current project in development is my [Digital Online Portfolio][website].
 - My goals for 2020 are to solidify knowledge of various programming languages.
