@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: A-X_12
 - ⚡ Fun fact: ...
 -->
-
-### [Hello there][meme]! I'm Charles. Online communities refer to me as [Auzlex][steam].
+### [Hello there](https://youtu.be/frszEJb0aOo){:target="_blank"}! I'm Charles. Online communities refer to me as [Auzlex][steam].
 
 ## I'm a computer programming enthusiast. Love playing games, making games, Hate Jellyfish!
 - My current project in development is my [Digital Online Portfolio][website].
@@ -24,9 +23,9 @@ Here are some ideas to get you started:
 
 ## shield.io test
 
-[![Website](https://img.shields.io/website?label=charlesedwards.dev&style=for-the-badge&url=https://charlesedwards.dev)](https://charlesedwards.dev)
+[![Website](https://img.shields.io/website?label=charlesedwards.dev&style=for-the-badge&url=https://charlesedwards.dev)](https://charlesedwards.dev){:target="_blank"}
 
-[![Why Not Follow Me On Twitter?](https://img.shields.io/twitter/follow/r_Auzlex?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAuzlex&screen_name=r_auzlex)
+[![Why Not Follow Me On Twitter?](https://img.shields.io/twitter/follow/r_Auzlex?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAuzlex&screen_name=r_auzlex){:target="_blank"}
 
 ## Github Stats
 
