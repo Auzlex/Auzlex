@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## I'm a computer programming enthusiast. Love playing games, making games, Hate Jellyfish!
 - My current project in development is my [Digital Online Portfolio][website].
-- My goals for 2022 are to solidify problem solving skills within the python 3 programming languages.
+- My goals for 2023 are to improve my problem solving skills.
 - I'm interested in collaberation on other projects.
 - I’m currently learning NNFS ([Neural Networks from Scratch][learning]) Website can be found here [nnfs].
 
