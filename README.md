@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 [website]: https://charlesedwards.dev/
-[steam]: https://steamcommunity.com/id/CodingGerruy/
+[steam]: https://steamcommunity.com/id/Auzlex/
 [linkedin]: https://www.linkedin.com/in/charles-edwards-7bb242173/
 [twitter]: https://twitter.com/r_Auzlex
 [youtube]: https://www.youtube.com/channel/UCBKbCieC2Jg1euWT1EkxlFw?view_as=subscriber
