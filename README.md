@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<img align="left" alt="Auzlex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Auzlex&show_icons=true&hide_border=true">
+<!--<img align="left" alt="Auzlex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Auzlex&show_icons=true&hide_border=true">-->
 
 
 [website]: https://charlesedwards.dev/
