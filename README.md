@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## I'm a computer programming enthusiast. Love playing games, making games, Hate Jellyfish!
 - My current project in development is my [Digital Online Portfolio][website].
-- My goals for 2024 are to improve my LLM understanding.
+- My goals for 2024 are to improve my LLM & Docker understanding.
 - I'm interested in collaberation on other projects.
 
 ### Languages and Tools:
