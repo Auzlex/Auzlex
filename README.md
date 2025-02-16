@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 -->
 ### 💎 Hello! Online communities refer to me as [Auzlex][steam].
 
-I value environments that foster collaboration, creativity, and innovation. A supportive culture is essential for me to thrive, as it allows me to feel comfortable sharing ideas, learning from others, and contributing effectively to everyones success.
+I am a very passionate and versatile developer with expertise in machine learning, game development and full-stack web technologies, with a proven ability to adapt to diverse projects, from AI-driven applications to creating immersive experiences. I am passionate about solving complex problems and delivering innovative solutions. I value an environment that encourages collaboration, creativity and innovation. A supportive culture is essential for me to thrive, as it allows me to feel comfortable sharing ideas, learning from others and contributing effectively to everyone's success.
 
 [![Website](https://img.shields.io/website?label=charlesedwards.dev&style=for-the-badge&url=https://charlesedwards.dev)](https://charlesedwards.dev) [![Website](https://img.shields.io/website?down_message=WORKSHOP&label=STEAM&logo=steam&style=for-the-badge&up_color=%231b2838&up_message=WORKSHOP&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2FCodingGerruy%2Fmyworkshopfiles%2F)](https://steamcommunity.com/id/Auzlex/myworkshopfiles/)
 
 ## Here are the tools, libraries, technologies and frameworks I've worked with:
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,vscode,git,py,cs,tensorflow,php,js,jquery,html,css,tailwind,threejs,unity,bots,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,vscode,git,py,cs,tensorflow,php,js,jquery,html,css,tailwind,threejs,unity,blender,bots,discord)](https://skillicons.dev)
 
 - 🔭 I’m actively working on [Subsystem][subsystem] VR event worlds using the unity game engine.
 - 🌱 I’m currently learning shader programming and Rust.
