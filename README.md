@@ -24,7 +24,7 @@ I am a very passionate and versatile developer with expertise in machine learnin
 
 - 🔭 I’m actively working on [Subsystem][subsystem] VR event worlds using the unity game engine.
 - 🌱 I’m currently learning shader programming and Rust.
-- 👯 My goals for 2025 are to experiment and understand self-prompting with LLMs.
+- 👯 My goals for 2025 are to get better with docker, CI/CD pipelines, Github Actions.
 - 📫 How to reach me: through my contact portal [here][website_contact].
 - 💬 Ask me about my projects to unity world and environment creation.
 
