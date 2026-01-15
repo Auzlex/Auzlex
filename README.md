@@ -24,7 +24,7 @@ I am a very passionate and versatile developer with expertise in machine learnin
 
 - 🔭 I’m actively working on [Subsystem][subsystem] VR event worlds using the unity game engine.
 - 🌱 I’m currently learning shader programming and Rust.
-- 👯 My goals for 2025 are to get better with docker, CI/CD pipelines, Github Actions.
+- 👯 My goals for 2026 are to get better with docker, CI/CD pipelines, Github/Gitea Actions, setting up worker/runner nodes. Check out my home lab documentation [here][website_homelab]!
 - 📫 How to reach me: through my contact portal [here][website_contact].
 - 💬 Ask me about my projects to unity world and environment creation.
 
@@ -42,3 +42,4 @@ I am a very passionate and versatile developer with expertise in machine learnin
 [learning]: https://youtu.be/sNHiM0DoEAg
 [nnfs]: https://nnfs.io/
 [subsystem]: https://subsystem.live/
+[website_homelab]: https://auzlex.github.io/my-home-lab/
