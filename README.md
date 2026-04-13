@@ -20,7 +20,7 @@ I am a very passionate and versatile developer with expertise in machine learnin
 [![Website](https://img.shields.io/website?label=charlesedwards.dev&style=for-the-badge&url=https://charlesedwards.dev)](https://charlesedwards.dev) [![Website_new](https://img.shields.io/website?label=auzlex.dev&style=for-the-badge&url=https://auzlex.dev)](https://auzlex.dev) [![Website](https://img.shields.io/website?down_message=WORKSHOP&label=STEAM&logo=steam&style=for-the-badge&up_color=%231b2838&up_message=WORKSHOP&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2FCodingGerruy%2Fmyworkshopfiles%2F)](https://steamcommunity.com/id/Auzlex/myworkshopfiles/)
 
 ## Here are the tools, libraries, technologies and frameworks I've worked with:
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,vscode,git,py,cs,tensorflow,php,js,jquery,html,css,tailwind,threejs,unity,blender,bots,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,vscode,git,py,cs,tensorflow,php,js,jquery,html,css,tailwind,threejs,unity,blender,bots,discord,nodejs,prisma,svelte,postgres,qt)](https://skillicons.dev)
 
 - 🔭 I’m actively working on [Subsystem][subsystem] VR event worlds using the unity game engine.
 - 🌱 I’m currently working on migrating VPS' of my old website to my new! with a cool new backend and route/auth management.
